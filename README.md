@@ -28,8 +28,3 @@ Halaman web sederhana dengan animasi partikel berbentuk hati. Judul: *Semua Ini 
 ## Jalankan
 
 Buka `function-heart.html` di browser.
-
-
----
-
-<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
