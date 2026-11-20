@@ -12,6 +12,9 @@
 <p align="center">semua ini tentang hati.</p>
 
 <p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26" alt=""/>
   <img src="https://img.shields.io/badge/CSS-1572B6" alt=""/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E" alt=""/>
